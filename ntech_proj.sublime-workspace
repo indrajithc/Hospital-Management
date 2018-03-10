@@ -1,0 +1,1383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rea",
+				"readed"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"Retu",
+				"return"
+			],
+			[
+				"date",
+				"date_from"
+			],
+			[
+				"va",
+				"valuex"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"s",
+				"switch"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"IN",
+				"INSERT"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"delete",
+				"delete_status"
+			],
+			[
+				"do",
+				"doctor"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"delet",
+				"delete_status"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ck",
+				"click"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"p",
+				"pid"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"prent",
+				"parent"
+			],
+			[
+				"valu",
+				"value_query"
+			],
+			[
+				"val",
+				"pass_value_herea"
+			],
+			[
+				"Dco",
+				"document"
+			],
+			[
+				"ov",
+				"overflow-y"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"fiun",
+				"function"
+			],
+			[
+				"cun",
+				"count"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"_",
+				"_year"
+			],
+			[
+				"tim",
+				"time_diff"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"tp",
+				"type"
+			],
+			[
+				"foc",
+				"focus"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"me",
+				"me_ma"
+			],
+			[
+				"r",
+				"response"
+			],
+			[
+				"btn-",
+				"btn-default"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"retr",
+				"return"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"dco",
+				"document"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"Doc",
+				"document"
+			],
+			[
+				"get",
+				"getFullYear"
+			],
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"xx",
+				"xpath_eval_expression"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"nam",
+				"name_n"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"col-",
+				"col-md-12"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"background-ma",
+				"background-image"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mart",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "doctor/header.php",
+			"settings":
+			{
+				"buffer_size": 14325,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "doctor/footer.php",
+			"settings":
+			{
+				"buffer_size": 1828,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "patient/footer.php",
+			"settings":
+			{
+				"buffer_size": 4615,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "patient/message.php",
+			"settings":
+			{
+				"buffer_size": 4764,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "patient/header.php",
+			"settings":
+			{
+				"buffer_size": 6078,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/javascript_004.js",
+			"settings":
+			{
+				"buffer_size": 73160,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/javascript_003.js",
+			"settings":
+			{
+				"buffer_size": 101207,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/style_003.css",
+			"settings":
+			{
+				"buffer_size": 11612,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/style_004.css",
+			"settings":
+			{
+				"buffer_size": 10945,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ajax.php",
+			"settings":
+			{
+				"buffer_size": 26195,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 112893,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "mater",
+		"selected_items":
+		[
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage in",
+				"Package Control: Install Package"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 430.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/Forgot_password",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient"
+	],
+	"file_history":
+	[
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/message.php",
+		"/home/indrajith/server/html/tech_teach/teacher/updates.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/bootstrap-chat-example/index.html",
+		"/tmp/.fr-7bB8ar/simplebar-master/demo/index.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/css/style_002.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/payment.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/pharmacist/medicine.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/prescription.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/header.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/js/javascript_005.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/noticeboard.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/pharmacist/password.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/js/javascript_002.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/css/style_005.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/pharmacist/header.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/payments.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/css/style_004.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/footer.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/prescription.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/pharmacist/prescriptions.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/pharmacist/history.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/header.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/pharmacist/medicine_.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/pharmacist/index.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/password.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/appointment.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/css/style_003.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/doctor.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/js/javascript_004.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/profile.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/pharmacist/footer.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/js/javascript_003.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/patient.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/appointments.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/patient.php",
+		"/tmp/.fr-obVOUd/jsPDF-master/index.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/header.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/profile.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/profile.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/footer.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/index.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/blood.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/blood.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/appointments.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/schedule.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/department.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/bed.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/medicine.php",
+		"/tmp/.fr-Iurk1i/add-wysiwyg-html-editor-to-textarea/index.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/appointment_history.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/admin/nurse.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/medicine_.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/appointments.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/02_customization/01_events_coloring.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/09_api/09_filtering_events.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/01_initialization_loading/05_loading_database.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/04_export/02_serialize_json.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/04_export/data/json_writer.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/dhtmlx/ext/dhtmlxscheduler_limit.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/calendar.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/fullcalendar-3.1.0/demos/background-events.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/01_initialization_loading/10_loading_database_json.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/08_shared_events/user_1_combined.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/08_shared_events/user_1.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/01_initialization_loading/data/events.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/includes/db.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/09_api/06_hightlight_and_single_click_create.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/02_customization/25_color_property.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/03_extensions/14_readonly_event.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/11_scales/03_two_work_weeks.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/05_calendar/01_select.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/01_initialization_loading/01_basic_init.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/03_extensions/15_collision.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/dhtmlxScheduler_v4.4.0/samples/02_customization/32_resizable_month_events.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/fullcalendar/js/fullcalendar.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/fullcalendar-3.1.0/demos/selectable.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/jquery-fullcalendar-integration-bootstrap-php-mysql/js/script.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/jquery-fullcalendar-integration-bootstrap-php-mysql/index.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/fullcalendar-master/demos/background-events.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/fullcalendar-master/tests/manual/blank.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/schedule (copy).php",
+		"/home/indrajith/server/html/ist_test/test_study_new/jquery-fullcalendar-integration-bootstrap-php-mysql/db.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/fullcalendar/css/fullcalendar.print.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/fullcalendar/css/fullcalendar.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/fullcalendar/css/fullcalendar.print.min.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/fullcalendar/css/fullcalendar.min.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/FullCalendar-BS3-PHP-MySQL-master/bdd.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/FullCalendar-BS3-PHP-MySQL-master/index.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/php/get-events.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/FullCalendar-BS3-PHP-MySQL-master/js/jquery.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/fullcalendar-3.1.0/demos/php/get-events.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/json/events.json",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/js/jquery-1.11.3.min.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/fullcalendar-3.1.0/lib/jquery.min.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/fullcalendar/fullcalendar.min.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/fullcalendar/fullcalendar.print.min.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/fullcalendar-3.1.0/demos/php/utils.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/fullcalendar/fullcalendar.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/fullcalendar-3.1.0/fullcalendar.min.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/fullcalendar/js/fullcalendar.min.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/index.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient/first.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/Perspective/js/menu.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/PerspectivePageViewNavigation/css/component.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/js/jquery.validate.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/PerspectivePageViewNavigation/js/modernizr.custom.25376.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/PerspectivePageViewNavigation/js/menu.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/PerspectivePageViewNavigation/js/classie.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/Perspective/css/component.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/Perspective/css/demo.css",
+		"/home/indrajith/Documents/00003.vcf",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/Perspective/css/normalize.css",
+		"/home/indrajith/server/html/tech_teach/assets/js/jquery-techer.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/PerspectivePageViewNavigation/index.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/responsive-side-menu/index.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/Perspective/js/modernizr.custom.25376.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/PerspectivePageViewNavigation/index3.html",
+		"/home/indrajith/server/html/ist_test/test_study_new/PerspectivePageViewNavigation/css/demo.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/upload.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/functions.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor/index.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/css/new/AdminLTE.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/new_menu/app.js",
+		"/home/indrajith/server/html/ist_test/test_study_new/new_menu/index.php",
+		"/home/indrajith/server/html/ist_test/test_study_new/Bproject/assets/css/new/style_003.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/new_menu/skin-black-light.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/new_menu/AdminLTE.css",
+		"/home/indrajith/server/html/ist_test/test_study_new/new_menu/skin-black-light.min.css"
+	],
+	"find":
+	{
+		"height": 63.0
+	},
+	"find_in_files":
+	{
+		"height": 143.0,
+		"where_history":
+		[
+			"<current file>",
+			"/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient",
+			"<current file>,/home/indrajith/server/html/ist_test/test_study_new/Bproject/patient",
+			"<current file>",
+			"",
+			"<current file>",
+			"<current file>,/home/indrajith/server/html/ist_test/test_study_new/Bproject",
+			"<current file>,/home/indrajith/server/html/ist_test/test_study_new/Bproject/doctor",
+			"<current file>",
+			"<current file>,*.txt",
+			"<current file>",
+			"",
+			"valid",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"return_now",
+			"date",
+			"join_date",
+			"get",
+			"remove_me",
+			"my_name_yar",
+			"moment",
+			"send_this_message",
+			"moment.js",
+			"[0]",
+			"\n                        <li class=\"media\">\n                            <div class=\"media-body\">\n                                <div class=\"media\">\n                                    <a class=\"pull-left\" href=\"#\">\n                                        <img class=\"media-object img-circle\" style=\"max-height:40px;\" src=\"assets/img/user.png\" />\n                                    </a>\n                                    <div class=\"media-body\" >\n                                        <h5>Alex Deo | User </h5>\n                                       <small class=\"text-muted\">Active From 3 hours</small>\n                                    </div>\n                                </div>\n                            </div>\n                        </li>';",
+			"assets/img/user.gif",
+			"div",
+			"pakoda_backo_etra",
+			"my_zxid",
+			"pat_pass_new",
+			"new_pass_pat",
+			"button_element_to_do",
+			"image",
+			"get_for_pamnt",
+			"retun_times_number",
+			"$time.trim()",
+			"/time",
+			"payment_tis_prisc",
+			"echo00011",
+			"echo00010",
+			"Date",
+			"\t\t\n",
+			"patient",
+			"response.success",
+			"response.va",
+			"none",
+			"$idd",
+			"edit-medicine",
+			"action_button_medicine",
+			"update_name_and_id_selet_2",
+			"show_hide",
+			"</br",
+			"action_button_medicine",
+			"action_button_medicine_edit",
+			"doc_pass_new",
+			"new_pass_doc",
+			"admin",
+			"INSERT",
+			"doctor_namea",
+			"enddate",
+			"startdate",
+			"join_date",
+			"dob",
+			"date(",
+			"date()",
+			"add_profile",
+			"dlphone",
+			"doctor_namea",
+			"add_doc",
+			"pmphone",
+			"dmphone",
+			"mphone",
+			"dmphone",
+			"doc_details",
+			"doctor_namea",
+			"doctor_name",
+			"department_name",
+			"doctor_namea",
+			"department_name",
+			"department_namea",
+			"xdepartment_namea",
+			"department_name",
+			"department_namea",
+			"gaddress",
+			"join_date",
+			"stat_color",
+			"new_t_row1",
+			"ed8151",
+			"button_view_patn45",
+			"$idxd",
+			"admin_pass_new",
+			";\">",
+			"loged_in_image",
+			"UPDATE  `do",
+			"UPDATE do",
+			"UPDATE `do",
+			"UPDATE `d",
+			"UPDATE d",
+			"update 'd",
+			"update-profile",
+			"add-doc",
+			"emphone",
+			"edmphone",
+			"green",
+			" ed8151",
+			"4caf50",
+			"col-md-sub_my_4",
+			" mu_row_status_samll_5",
+			"$idxd",
+			"chek_imag",
+			"dmodel",
+			"dimage_base",
+			"upadanimage",
+			"edit_div",
+			"add_blood_mang",
+			"deleted",
+			"succesfully ",
+			"$idd",
+			"update",
+			"amount_bloo",
+			"time_from",
+			"type=t",
+			"join_date",
+			"removeAttr",
+			"disable",
+			"button[",
+			"davko_jnako_0934000",
+			"amount_bloo",
+			"autofocus",
+			"pblood",
+			"medicines_cat",
+			"sub_add_this",
+			"parseD",
+			"parseda",
+			"/",
+			"parseDate",
+			"selecte",
+			"datepicker",
+			"error",
+			"form-control-feedback",
+			"glyphicon",
+			"show_status"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../assets/img/default.png",
+			"trim($time, ' ')",
+			"ml/gm",
+			"4caf50",
+			"ed8151",
+			" ed8151",
+			" ",
+			" a.time_from ",
+			"   NOW() <=  a.time_from ",
+			"Date of Birth",
+			"!important",
+			"!important;",
+			"col-sm-8",
+			"col-sm-4",
+			" <br>",
+			" ",
+			"ddd3",
+			"FFFFFF",
+			"fa-trash",
+			"col-sm-offset-2 col-sm-5",
+			"<br>",
+			"col-sm-8",
+			"col-sm-9",
+			"col-sm-3",
+			"F7F7F7",
+			"response.success== -1",
+			"span",
+			"  ",
+			"photo_url_",
+			"\"Helvetica Neue\"",
+			"'.$support_url.'",
+			"'.$browser_name.'",
+			"'.$operating_system.'",
+			"'.$action_url.'",
+			"'.$system_name.'",
+			"\"Helvetica Neue\"",
+			"\"",
+			"valid",
+			"4CAF50",
+			"#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "doctor/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1755,
+								1755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6385.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "doctor/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								570,
+								570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 269.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "patient/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3636,
+								3636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1278.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "patient/message.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3012,
+								3012
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1512.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "patient/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5303,
+								5303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1800.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/js/javascript_004.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51938,
+								51938
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 35287.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/js/javascript_003.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 101207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88055,
+								88055
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 64268.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/css/style_003.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11589,
+								11589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11808.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "assets/css/style_004.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10907,
+								10907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 12371.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "ajax.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26105,
+								26105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 21312.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77831,
+								77831
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 61452.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": "ntech_proj.sublime-project",
+	"replace":
+	{
+		"height": 103.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lint",
+				"assets/css/intlTelInput.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 440.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 334.0
+	},
+	"select_symbol":
+	{
+		"height": 344.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 622.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 136.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
